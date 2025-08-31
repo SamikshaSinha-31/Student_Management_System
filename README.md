@@ -93,7 +93,7 @@ Search Student
 
 Clone this project:
 
-git clone https://github.com/root/student-management-system.git
+git clone (https://github.com/SamikshaSinha-31/Student_Management_System.git)
 
 ### Author
 
